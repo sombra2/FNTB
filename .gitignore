@@ -2,3 +2,4 @@
 __pycache__/
 .idea/
 credentials.py
+token-channel id.txt
